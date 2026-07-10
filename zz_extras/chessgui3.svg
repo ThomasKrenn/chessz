@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.95884mm"
+   height="115.95884mm"
+   viewBox="0 0 115.95884 115.95884"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="chessgui3.svg"
+   inkscape:export-filename="chessgui3.png"
+   inkscape:export-xdpi="56.075069"
+   inkscape:export-ydpi="56.075069"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="219.75914"
+     inkscape:cy="219.13482"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="radialGradient3"
+       cx="94.154617"
+       cy="129.50389"
+       fx="94.154617"
+       fy="129.50389"
+       r="49.885426"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1.7893425,0.00499859,-0.00596359,-2.135494,270.02355,424.96809)" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f6f32d;stop-opacity:1;"
+         offset="0.43312103"
+         id="stop2" />
+      <stop
+         style="stop-color:#f6c02d;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.02058,-90.520584)">
+    <rect
+       style="fill:url(#radialGradient3);fill-opacity:1;stroke-width:1.04603;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="115.95884"
+       height="115.95884"
+       x="47.02058"
+       y="90.520584"
+       ry="16.510696" />
+    <path
+       style="font-size:33.8667px;line-height:1.25;font-family:'Chess Merida Unicode';-inkscape-font-specification:'Chess Merida Unicode, Normal';font-variant-ligatures:none;stroke-width:0.738955"
+       d="m 111.35041,117.00198 h 7.85143 v -6.32733 h 12.65463 v 17.3193 l -10.25303,7.8976 v 22.07634 l 7.85141,7.85141 v 9.4679 h 7.06628 v 11.03815 H 73.478874 V 175.2872 h 7.066273 v -9.4679 l 7.897603,-7.85141 v -22.07634 l -10.253026,-7.8976 v -17.3193 h 12.60845 v 6.32733 h 7.897601 v -6.32733 h 12.654635 z m -27.572326,57.54625 v 4.71084 h 42.490026 v -4.71084 z M 105.02311,124.11442 H 81.376475 v 2.1245 l 3.37149,2.54018 h 40.596455 l 3.27911,-2.54018 v -2.1245 z m 0,7.80525 H 88.858412 l 2.77109,2.17068 v 2.63252 h 26.787188 v -2.63252 l 2.77109,-2.17068 z m 0,25.21689 H 91.629502 v 2.1245 l -2.77109,2.67873 h 32.329368 l -2.77109,-2.67873 v -2.1245 z m 0,7.9438 H 85.902585 l -2.124501,1.98593 v 2.67873 h 42.490026 v -2.67873 l -2.1245,-1.98593 z"
+       id="text1"
+       aria-label="♜" />
+  </g>
+</svg>

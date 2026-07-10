@@ -1,0 +1,60 @@
+## find_package(ZLIB REQUIRED)
+
+find_package(WK2 "1.0.0.0"
+  NO_PACKAGE_ROOT_PATH
+  COMPONENTS zlib
+  EXACT 
+  REQUIRED
+)
+
+add_library(quazip STATIC
+  JlCompress.cpp
+  JlCompress.h
+  crypt.h
+  ioapi.h
+  qioapi.cpp
+  quaadler32.cpp
+  quaadler32.h
+  quachecksum32.h
+  quacrc32.cpp
+  quacrc32.h
+  quagzipfile.cpp
+  quagzipfile.h
+  quaziodevice.cpp
+  quaziodevice.h
+  quazip.cpp
+  quazip.h
+  quazip_global.h
+  quazipdir.cpp
+  quazipdir.h
+  quazipfile.cpp
+  quazipfile.h
+  quazipfileinfo.h
+  quazipnewinfo.cpp
+  quazipnewinfo.h
+  unzip.cpp
+  unzip.h
+  zip.cpp
+  zip.h
+)
+
+target_compile_definitions(quazip
+  PUBLIC
+    QUAZIP_STATIC
+)
+
+target_include_directories(quazip
+  PUBLIC
+    ../common
+    .
+
+)
+
+target_link_libraries(quazip
+  PRIVATE
+    qt_config
+  PUBLIC
+    WK2::zlib
+    Qt5::Core
+)
+

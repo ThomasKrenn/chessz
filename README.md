@@ -1,7 +1,7 @@
-# ![Icon](data/images/chessx.png)ChessZ
+# ![Icon](data/icons/64x64/apps/chessz.png)ChessZ
 
 
-A free and open source chess database application for Windows.
+A free and open source chess database application for Windows forked from ChessX.
 
 ## Website
 
@@ -22,17 +22,6 @@ A free and open source chess database application for Windows.
 
 ## Project Samples
 
-[//]: # "This project samples migth be a bit dated, and could be replaced with
-screenshots of a newer version?"
-
-<img src="https://a.fsdn.com/con/app/proj/chessx/screenshots/shot-Sa.%20Okt%205%2014%3A08%3A08%202013-001.jpg"
-width="400" alt="Project sample 1"> 
-
-<img src="https://a.fsdn.com/con/app/proj/chessx/screenshots/333325.jpg"
-width="400" alt="Project sample 2">
-
-<img src="https://a.fsdn.com/con/app/proj/chessx/screenshots/287715.jpg"
-width="400" alt="Project sample 3"> 
 
 ## Categories
 
@@ -40,7 +29,7 @@ Database, board games, turn based strategy
 
 ##  [License](COPYING.md)
 
-:copyright: 2021-2005, ChessX authors
+:copyright: 2021-2026, ChessZ authors
 
 This program is free software; you can redistribute it and/or modify  it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 

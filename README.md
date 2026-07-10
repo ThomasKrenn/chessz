@@ -1,12 +1,11 @@
-# ![Icon](data/icons/64x64/apps/chessx.png)ChessX
+# ![Icon](data/images/chessx.png)ChessZ
 
-![CI](https://github.com/erysaj/chessx/workflows/CI/badge.svg?branch=ci-sandbox)
 
-A free and open source chess database application for Linux, Mac OS X and Windows.
+A free and open source chess database application for Windows.
 
 ## Website
 
-[ChessX Homepage](https://chessx.sourceforge.io/)
+[ChessZ Homepage](https://thomaskrenn.github.io/)
 
 ## Features
 
